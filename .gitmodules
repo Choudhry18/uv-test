@@ -1,0 +1,3 @@
+[submodule "uv-test-helper"]
+	path = uv-test-helper
+	url = ../uv-test-helper
